@@ -8,16 +8,16 @@ Welcome to my portfolio of hands-on Cloud Automation & DevSecOps (every day a ne
 
 | Repository                  | Description                                                                                   |
 |-----------------------------|-----------------------------------------------------------------------------------------------|
-| terraform-iac               | Deploy secure AWS & Azure resources with Terraform, modules, variables, and remote state.     |
-| cloudformation-stacks       | Modular, parameterized AWS CloudFormation stacks for automating VPC, IAM, and S3.            |
-| bicep-iac                   | Deploy secure Azure resources using Bicep, including RBAC, Key Vault, and NSG automation.     |
-| ansible-automation          | Provision and configure cloud VMs/containers securely with Ansible playbooks & roles.         |
-| github-actions-pipelines    | Secure CI/CD pipelines (multi-cloud) with GitHub Actions: linting, scanning, and deployments. |
-| container-security-pipeline | Automate container image build, scan, and deploy with Docker, Trivy, and GitHub Actions.      |
-| kubernetes-iac              | Deploy and harden Kubernetes clusters (AKS/EKS/minikube) using IaC and policy as code.        |
-| policy-as-code-examples     | Enforce security and compliance with OPA, AWS SCPs, and Azure Policy in IaC pipelines.        |
-| automation-scripts          | Python/Bash/PowerShell scripts for cloud automation: tagging, compliance, secrets rotation.    |
-| cloud-monitoring-automation | Automated setup of monitoring, logging, and alerting (CloudWatch, Sentinel, Prometheus, etc.) |
+| *terraform-iac(coming soon)*               | Deploy secure AWS & Azure resources with Terraform, modules, variables, and remote state.     |
+| *cloudformation-stacks       | Modular, parameterized AWS CloudFormation stacks for automating VPC, IAM, and S3.            |
+| *bicep-iac                   | Deploy secure Azure resources using Bicep, including RBAC, Key Vault, and NSG automation.     |
+| *ansible-automation          | Provision and configure cloud VMs/containers securely with Ansible playbooks & roles.         |
+| *github-actions-pipelines    | Secure CI/CD pipelines (multi-cloud) with GitHub Actions: linting, scanning, and deployments. |
+| *container-security-pipeline | Automate container image build, scan, and deploy with Docker, Trivy, and GitHub Actions.      |
+| *kubernetes-iac              | Deploy and harden Kubernetes clusters (AKS/EKS/minikube) using IaC and policy as code.        |
+| *policy-as-code-examples     | Enforce security and compliance with OPA, AWS SCPs, and Azure Policy in IaC pipelines.        |
+| *automation-scripts          | Python/Bash/PowerShell scripts for cloud automation: tagging, compliance, secrets rotation.    |
+| *cloud-monitoring-automation | Automated setup of monitoring, logging, and alerting (CloudWatch, Sentinel, Prometheus, etc.) |
 
 * Click each repo name to view source code, documentation, diagrams and hands-on lab.
 
