@@ -8,7 +8,7 @@ Welcome to my portfolio of hands-on Cloud Automation & DevSecOps (every day a ne
 
 | Repository                  | Description                                                                                   |
 |-----------------------------|-----------------------------------------------------------------------------------------------|
-| *terraform-iac(coming soon)*               | Deploy secure AWS & Azure resources with Terraform, modules, variables, and remote state.     |
+| *[terraform-iac] (coming soon)*               | Deploy secure AWS & Azure resources with Terraform, modules, variables, and remote state.     |
 | *cloudformation-stacks       | Modular, parameterized AWS CloudFormation stacks for automating VPC, IAM, and S3.            |
 | *bicep-iac                   | Deploy secure Azure resources using Bicep, including RBAC, Key Vault, and NSG automation.     |
 | *ansible-automation          | Provision and configure cloud VMs/containers securely with Ansible playbooks & roles.         |
