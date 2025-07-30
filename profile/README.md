@@ -13,9 +13,9 @@ Welcome to my portfolio of hands-on Cloud Automation & DevSecOps (every day a ne
 | *bicep-iac (soon)*                    | Deploy secure Azure resources using Bicep, including RBAC, Key Vault and NSG automation.      |
 | *ansible-automation (soon)*           | Provision and configure cloud VMs/containers securely with Ansible playbooks & roles.         |
 | *github-actions-pipelines (soon)*     | Secure CI/CD pipelines (multi-cloud) with GitHub Actions: linting, scanning and deployments.  |
-| *container-security-pipeline (soon)*  | Automate container image build, scan, and deploy with Docker, Trivy and GitHub Actions.       |
+| *container-security-pipeline (soon)*  | Automate container image build, scan and deploy with Docker, Trivy and GitHub Actions.        |
 | *kubernetes-iac (soon)*               | Deploy and harden Kubernetes clusters (AKS/EKS/minikube) using IaC and policy as code.        |
-| *policy-as-code-examples (soon)*      | Enforce security and compliance with OPA, AWS SCPs, and Azure Policy in IaC pipelines.        |
+| *policy-as-code-examples (soon)*      | Enforce security and compliance with OPA, AWS SCPs and Azure Policy in IaC pipelines.         |
 | *automation-scripts (soon)*           | Python/Bash/PowerShell scripts for cloud automation: tagging, compliance, secrets rotation.   |
 | *cloud-monitoring-automation (soon)*  | Automated setup of monitoring, logging, and alerting (CloudWatch, Sentinel, Prometheus, etc.) |
 
