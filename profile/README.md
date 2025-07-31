@@ -42,8 +42,8 @@ Welcome to my portfolio of hands-on Cloud Automation & DevSecOps (every day a ne
 
 Built and maintained by Sebastian Silva C. Passionate about automation, defense-in-depth and real-world hands-on learning. 
 CompTIA Security+, Network+, A+ and Azure AZ 900 certified.   
-*Contact me on [LinkedIn](https://www.linkedin.com/in/sebastiansilc)*
+*Contact me on [LinkedIn](https://www.linkedin.com/in/sebastiansilc) or [sebastian@playbookvisualarts.com](mailto:sebastian@playbookvisualarts.com)*
 
 ---
 
-Sebastian Silva C. - July, 2025 - Berlin, Germany
+Sebastian Silva C. - August, 2025 - Berlin, Germany
