@@ -17,7 +17,7 @@ Welcome to my portfolio of hands-on Cloud Automation & DevSecOps (every day a ne
 | *kubernetes-iac (soon)*               | Deploy and harden Kubernetes clusters (AKS/EKS/minikube) using IaC and policy as code.        |
 | *github-actions-pipelines (soon)*     | Secure CI/CD pipelines (multi-cloud) with GitHub Actions: linting, scanning and deployments.  |
 | *policy-as-code (soon)*               | Enforce security and compliance with OPA, AWS SCPs and Azure Policy in IaC pipelines.         |
-| *cloud-monitoring-automation (soon)*  | Automated setup of monitoring, logging, and alerting (CloudWatch, Sentinel, Prometheus, etc.) |
+| *cloud-monitoring-automation (soon)*  | Automated setup of monitoring, logging and alerting (CloudWatch, Sentinel, Prometheus, etc.)  |
 
 * Click each repo name to view source code, documentation, diagrams and hands-on lab.
 
