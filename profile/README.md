@@ -6,18 +6,18 @@ Welcome to my portfolio of hands-on Cloud Automation & DevSecOps (every day a ne
 
 ## Portfolio Overview
 
-| Repository                                                                                               | Description                                                                                                                  |
-|----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
-| [automation-scripts](https://github.com/Cloud-Automation-Portfolio/automation-scripts)                   | Automation scripts for cloud with Python: tagging, compliance, secrets rotation, Slack, GitHub Actions and Prowler.          |
-| [cloudformation-stacks](https://github.com/Cloud-Automation-Portfolio/cloudformation-stacks)             | Modular & parameterized AWS CloudFormation stacks automating VPC, IAM and S3, with nested stacks and StackSets.              |
-| [terraform-iac](https://github.com/Cloud-Automation-Portfolio/terraform-iac)                             | Deploy secure AWS & Azure resources with Terraform, modules, variables and remote state.                                     |
-| [bicep-iac](https://github.com/Cloud-Automation-Portfolio/bicep-iac)                                     | Resource deploy with Bicep: RBAC, Key Vault and NSG automation; native functions, loops, conditionals & 'what-if'.           |
-| [ansible-automation](https://github.com/Cloud-Automation-Portfolio/ansible-automation)                   | Automated server and container provisioning, configuration, patching, user management Docker hardening and compliance.       |
-| [container-security-pipeline](https://github.com/Cloud-Automation-Portfolio/container-security-pipeline) | Automate container image build, scan and deploy with Docker, Trivy, Grype and Cosign, using GitHub Actions and Kubernetes.   |
-| [kubernetes-iac](https://github.com/Cloud-Automation-Portfolio/kubernetes-iac)                           | Deploy and harden Kubernetes clusters (AKS/EKS/minikube) using IaC, policy as code, RBAC, NetworkPolicy and GitOps.          |
-| *github-actions-pipelines (soon)*                                                                        | Secure multi-cloud CI/CD pipelines with GitHub Actions: linting, scanning and deployments.                                   |
-| *policy-as-code (soon)*                                                                                  | Enforce security and compliance with OPA, AWS SCPs and Azure Policy in IaC pipelines.                                        |
-| *cloud-monitoring-automation (soon)*                                                                     | Automated setup of monitoring, logging and alerting (CloudWatch, Sentinel, Prometheus, etc.)                                 |
+| Repository                                                                                               | Description                                                                                                                     |
+|----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| [automation-scripts](https://github.com/Cloud-Automation-Portfolio/automation-scripts)                   | Automation scripts for cloud with Python: tagging, compliance, secrets rotation, Slack, GitHub Actions and Prowler.             |
+| [cloudformation-stacks](https://github.com/Cloud-Automation-Portfolio/cloudformation-stacks)             | Modular & parameterized AWS CloudFormation stacks automating VPC, IAM and S3, with nested stacks and StackSets.                 |
+| [terraform-iac](https://github.com/Cloud-Automation-Portfolio/terraform-iac)                             | Deploy secure AWS & Azure resources with Terraform, modules, variables and remote state.                                        |
+| [bicep-iac](https://github.com/Cloud-Automation-Portfolio/bicep-iac)                                     | Resource deploy with Bicep: RBAC, Key Vault and NSG automation; native functions, loops, conditionals & 'what-if'.              |
+| [ansible-automation](https://github.com/Cloud-Automation-Portfolio/ansible-automation)                   | Automated server and container provisioning, configuration, patching, user management Docker hardening and compliance.          |
+| [container-security-pipeline](https://github.com/Cloud-Automation-Portfolio/container-security-pipeline) | Automate container image build, scan and deploy with Docker, Trivy, Grype and Cosign, using GitHub Actions and Kubernetes.      |
+| [kubernetes-iac](https://github.com/Cloud-Automation-Portfolio/kubernetes-iac)                           | Deploy and harden Kubernetes clusters (AKS/EKS/minikube) using IaC, policy as code, RBAC, NetworkPolicy and GitOps.             |
+| [github-actions-pipelines](https://github.com/Cloud-Automation-Portfolio/github-actions-pipelines)       | Secure multi-cloud CI/CD pipelines using GitHub Actions: lint, test, scan, sign and deploy to AWS EKS/Azure AKS with OIDC, etc. |
+| *policy-as-code (soon)*                                                                                  | Enforce security and compliance with OPA, AWS SCPs and Azure Policy in IaC pipelines.                                           |
+| *cloud-monitoring-automation (soon)*                                                                     | Automated setup of monitoring, logging and alerting (CloudWatch, Sentinel, Prometheus, etc.)                                    |
 
 * Click each repo name to view source code, documentation, diagrams and hands-on lab.
 
@@ -32,7 +32,7 @@ Welcome to my portfolio of hands-on Cloud Automation & DevSecOps (every day a ne
 - **Ansible Automation** – OS hardening and secure provisioning for cloud VMs and containers.
 - **Container Security Pipeline** – Secure container build, scan and deployment pipelines; Docker, Kubernetes, GitHub Actions, Trivy, Grype and Cosign.
 - **Kubernetes IaC** – Hardened Kubernetes clusters (AKS/EKS) with policy as code (OPA Gatekeeper) Includes RBAC, NetworkPolicy, Admission Controllers and GitOps (ArgoCD)
-- *Github Actions Pipelines* – Secure CI/CD: static analysis, secrets and multi-cloud deployments.
+- **Github Actions Pipelines** – Secure CI/CD for multi-cloud Kubernetes with automated linting, testing, secret scanning, SAST, SBOM, vulnerability scans, container signing and gated deployments to AWS EKS & Azure AKS via OIDC, least-privilege RBAC and supply-chain security.
 - *Policy As Code* – Automated enforcement of security and compliance policies.
 - *Cloud Mnitoring Automation* – End-to-end monitoring, logging and cloud alerting setup.
 
