@@ -1,6 +1,6 @@
 ## Cloud Automation Portfolio
 
-Welcome to my portfolio of hands-on Cloud Automation & DevSecOps (every day a new lab). Each repository showcases practical projects that automate, secure and manage modern cloud environments—covering infrastructure as code, CI/CD pipelines, container and Kubernetes security, monitoring and compliance automation across AWS and Azure.
+Welcome to my portfolio of hands-on Cloud Automation & DevSecOps (every week a new lab). Each repository showcases practical projects that automate, secure and manage modern cloud environments—covering infrastructure as code, CI/CD pipelines, container and Kubernetes security, monitoring and compliance automation across AWS and Azure.
 
 ---
 
