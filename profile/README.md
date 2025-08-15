@@ -1,6 +1,6 @@
 ## Cloud Automation Portfolio
 
-Welcome to my portfolio of hands-on Cloud Automation & DevSecOps (every week a new lab). Each repository showcases practical projects that automate, secure and manage modern cloud environments—covering infrastructure as code, CI/CD pipelines, container and Kubernetes security, monitoring and compliance automation across AWS and Azure.
+Welcome to my portfolio of hands-on Cloud Automation & DevSecOps. Each repository showcases practical projects that automate, secure and manage modern cloud environments—covering infrastructure as code, CI/CD pipelines, container and Kubernetes security, monitoring and compliance automation across AWS and Azure.
 
 ---
 
@@ -17,7 +17,7 @@ Welcome to my portfolio of hands-on Cloud Automation & DevSecOps (every week a n
 | [kubernetes-iac](https://github.com/Cloud-Automation-Portfolio/kubernetes-iac)                           | Deploy and harden Kubernetes clusters (AKS/EKS/minikube) using IaC, policy as code, RBAC, NetworkPolicy and GitOps.             |
 | [github-actions-pipelines](https://github.com/Cloud-Automation-Portfolio/github-actions-pipelines)       | Secure multi-cloud CI/CD pipelines using GitHub Actions: lint, test, scan, sign and deploy to AWS EKS/Azure AKS with OIDC, etc. |
 | [policy-as-code](https://github.com/Cloud-Automation-Portfolio/policy-as-code)                           | Enforce security and compliance with OPA, AWS SCPs and Azure Policy in IaC pipelines.                                           |
-| *cloud-monitoring-automation (soon)*                                                                     | Automated setup of monitoring, logging and alerting (CloudWatch, Sentinel, Prometheus, etc.)                                    |
+| [cloud-monitoring-automation](https://github.com/Cloud-Automation-Portfolio/cloud-monitoring-automation) | Automated setup of monitoring, logging and alerting (AWS CloudWatch & Lambda, Azure and AKS, Grafana, Prometheus, etc.)         |
 
 * Click each repo name to view source code, documentation, diagrams and hands-on lab.
 
@@ -34,8 +34,7 @@ Welcome to my portfolio of hands-on Cloud Automation & DevSecOps (every week a n
 - **Kubernetes IaC** – Hardened Kubernetes clusters (AKS/EKS) with policy as code (OPA Gatekeeper) Includes RBAC, NetworkPolicy, Admission Controllers and GitOps (ArgoCD)
 - **Github Actions Pipelines** – Secure CI/CD for multi-cloud Kubernetes with automated linting, testing, secret scanning, SAST, SBOM, vulnerability scans, container signing and gated deployments to AWS EKS & Azure AKS via OIDC, least-privilege RBAC and supply-chain security.
 - **Policy As Code** – Multi-cloud Policy-as-Code lab: Kubernetes OPA Gatekeeper, Azure Policy (Bicep), AWS SCPs, CI/CD with GitHub Actions, Security & Compliance Automation.
-- *Cloud Mnitoring Automation* – End-to-end monitoring, logging and cloud alerting setup.
-
+- **Cloud Mnitoring Automation** – End-to-end monitoring, logging and cloud alerting setup. Integrates AWS CloudWatch, Azure Monitor and Kubernetes (Prometheus/Grafana) into a single signed Alert Hub (API Gateway + Lambda) for ChatOps delivery. 
 
 ---
 
